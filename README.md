@@ -8,13 +8,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm i @shriharim006/tiny-package
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@shrihari006/tiny");
+const tiny = require("@shrihari006/tiny-package");
 tiny("So much space!");
 //=> "Somuchspace!"
 tiny(1337);
